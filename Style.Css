@@ -1,0 +1,20 @@
+{
+    margin: 0;
+    padding: 0;
+    font-family: "poppins", sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background  #080808;
+    color: lab(100% 0.01 -0.01);
+}
+#header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(backgroundimage);
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    padding: 100px 10%;
+}
